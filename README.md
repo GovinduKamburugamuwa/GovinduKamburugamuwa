@@ -25,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/govinduoshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govinduoshada" height="30" width="40" /></a>
-<a href="https://instagram.com/govindu_oshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="govindu_oshada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codegeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codegeeks" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/govi oshada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govi oshada" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/govindu-oshada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="govinduoshada" height="30" width="40" /></a>
+<a href="https://www.instagram.com/govindu_oshada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="govindu_oshada" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codegeeks2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codegeeks" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/govi_oshada_ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govi oshada" height="30" width="40" /></a>
 <a href="/https://codegeekgovi9.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codegeekgovi9.wordpress.com/" height="30" width="40" /></a>
 </p>
 
