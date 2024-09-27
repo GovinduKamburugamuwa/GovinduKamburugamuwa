@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Govindu Kamburugamuwa</h1>
 <h3 align="center">Computer Scinece Undegraudate | Technology Explorer</h3>
-<p align="center"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1FgE3sH6lYT9F6mPbT7QWy&ust=1727537376589000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDL1LC444gDFQAAAAAdAAAAABAE" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GovinduKamburugamuwa&label=Profile%20views&color=0e75b6&style=flat" alt="GovinduKamburugamuwa" /> </p>
 
 <table align="center">
 <tr border="none">
