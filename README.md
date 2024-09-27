@@ -45,8 +45,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-
-
 </div>
 
 <hr />
@@ -57,11 +55,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="500" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="500" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
 </p>
