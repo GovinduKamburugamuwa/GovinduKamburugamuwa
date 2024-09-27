@@ -19,9 +19,9 @@
 
 </td>
 <td width="50%" align="center">
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
- 
+<p align="center">
+  <img src="https://media.tenor.com/images/07e3139b7d86c2cc0a88ac67574a4173/tenor.gif" alt="Sewa Rumah" width="500px" />
+</p>
   </td>
 </tr>
 </table>
