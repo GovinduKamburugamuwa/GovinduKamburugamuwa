@@ -20,9 +20,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1FgE3sH6lYT9F6mPbT7QWy&ust=1727537376589000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDL1LC444gDFQAAAAAdAAAAABAE">
-
-  
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+ 
   </td>
 </tr>
 </table>
