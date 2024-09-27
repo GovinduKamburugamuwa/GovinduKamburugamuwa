@@ -36,7 +36,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/govindu-oshada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="govinduoshada" height="100" width="100" /></a>
 <a href="https://www.instagram.com/govindu_oshada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="govindu_oshada" height="100" width="100" /></a>
-<a href="https://www.youtube.com/@codegeeks2000" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="codegeeks" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codegeeks2000" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="codegeeks" height="100" width="100" /></a>
 </p>
 
 <hr />
