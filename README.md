@@ -49,11 +49,20 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 
 <hr />
 
