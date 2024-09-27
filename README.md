@@ -47,6 +47,16 @@
 
 <hr />
 
+
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
+
+<hr />
+
 <h3 align="center">Social Media</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/govindu-oshada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="govinduoshada" height="100" width="100" /></a>
@@ -64,10 +74,4 @@
 
 <hr />
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 
