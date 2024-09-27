@@ -19,7 +19,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img src="https://media.tenor.com/images/07e3139b7d86c2cc0a88ac67574a4173/tenor.gif" alt="Sewa Rumah" width="500px" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="Sewa Rumah" width="500px" />
   </td>
 </tr>
 </table>
