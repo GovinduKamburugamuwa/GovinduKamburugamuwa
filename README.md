@@ -7,14 +7,18 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🔭 I’m currently working on **MernStack**
 
-- 🧑‍🎓 I’m an Undergraduate at **KDU**
+- 🌱 I’m currently learning **MernStack**
 
-- 💬 Ask me about **Java**
+- 👨‍💻 All of my projects are available at [https://govindukamburugamuwa.github.io/](https://govindukamburugamuwa.github.io/)
 
-- 📫 How to reach me **govi.oshada.ry@gmail.com**
-  
+- 📝 I regularly write articles on [https://codegeekgovi9.wordpress.com/](https://codegeekgovi9.wordpress.com/)
+
+- 💬 Ask me about **Java,MernStack,Python**
+
+- 📫 How to reach me **govi.oshada.ry@mail.com**
+
 - ⚡ Fun fact **Call me as GOVI**
 
 </td>
@@ -77,7 +81,7 @@
 <h3 align="center">Connect With Me</h2>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/govi_oshada_ry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="govi oshada" height="100" width="100" /></a>
-<a href="/https://codegeekgovi9.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codegeekgovi9.wordpress.com/" height="100" width="100" /></a>
+<a href="https://codegeekgovi9.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codegeekgovi9.wordpress.com/" height="100" width="100" /></a>
 </p>
 
 <hr />
