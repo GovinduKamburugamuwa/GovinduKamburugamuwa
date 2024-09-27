@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MernStack**
 
-- 👨‍💻 All of my projects are available at [https://govindukamburugamuwa.github.io/](https://govindukamburugamuwa.github.io/)
+- 👨‍💻 Portfolio [https://govindukamburugamuwa.github.io/](https://govindukamburugamuwa.github.io/)
 
 - 📝 I regularly write articles on [https://codegeekgovi9.wordpress.com/](https://codegeekgovi9.wordpress.com/)
 
