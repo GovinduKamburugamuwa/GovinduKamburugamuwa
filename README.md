@@ -7,9 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **MernStack**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Portfolio [https://govindukamburugamuwa.github.io/](https://govindukamburugamuwa.github.io/)
 
