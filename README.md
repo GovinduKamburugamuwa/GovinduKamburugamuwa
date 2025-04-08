@@ -22,10 +22,9 @@
 - ⚡ Fun fact **Call me as GOVI**
 
 </td>
-
-  <p align="center">
+<td width="50%" align="center">
   <img src="https://raw.githubusercontent.com/GovinduKamburugamuwa/GovinduKamburugamuwa/main/path-to-your-image.png" width="150px" alt="Programmer illustration">
-</p>
+</td>td>
 
 </tr>
 </table>
