@@ -23,7 +23,7 @@
 
 </td>
 <td width="50%" align="center">
-  ![lofi-girl-balcony-laptop-music-hbhlpqtbvs1llj1h](https://github.com/user-attachments/assets/bf22502f-2ead-4547-ba6c-93b7f2c7cb23)
+![lofi-girl-balcony-laptop-music-hbhlpqtbvs1llj1h](https://github.com/user-attachments/assets/bf22502f-2ead-4547-ba6c-93b7f2c7cb23)
   width="500px" />
   </td>
 </tr>
