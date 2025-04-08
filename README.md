@@ -23,7 +23,9 @@
 
 </td>
 <td width="50%" align="center">
-  <img src="https://github.com/user-attachments/assets/bf22502f-2ead-4547-ba6c-93b7f2c7cb23" alt="lofi-girl-balcony-laptop-music" width="100%" style="max-width:500px;" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/GovinduKamburugamuwa/GovinduKamburugamuwa/main/path-to-your-image.png" width="150px" alt="Programmer illustration">
+</p>
 </td>
 </tr>
 </table>
