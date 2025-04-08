@@ -1,8 +1,5 @@
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Govindu Kamburugamuwa</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
-</p>
 
 <h3 align="center">Computer Science Undegraudate in KDU | Technology Explorer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GovinduKamburugamuwa&label=Profile%20views&color=0e75b6&style=flat" alt="GovinduKamburugamuwa" /> </p>
@@ -93,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="divider">
 </p>
 
 
