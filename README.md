@@ -49,7 +49,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 </div>
 
-<hr />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
 
 
 # 📊 GitHub Stats:
@@ -65,7 +67,9 @@
 </p>
 
 
-<hr />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
 
 <h3 align="center">Social Media</h2>
 <p align="center">
@@ -74,7 +78,9 @@
 <a href="https://www.youtube.com/@codegeeks2000" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="codegeeks" height="100" width="100" /></a>
 </p>
 
-<hr />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
 
 <h3 align="center">Connect With Me</h2>
 <p align="center">
@@ -82,7 +88,9 @@
 <a href="https://codegeekgovi9.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://codegeekgovi9.wordpress.com/" height="100" width="100" /></a>
 </p>
 
-<hr />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
 
 
 
