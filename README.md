@@ -1,32 +1,43 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="80px" alt="Developer Animation">
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100px"></p>
+
+<h1 align="center">Hi 👋, I'm Govindu Kamburugamuwa</h1>
+
+<h3 align="center">Computer Science Undergraduate at KDU | Full-Stack Developer | Technology Explorer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GovinduKamburugamuwa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="GovinduKamburugamuwa" />
+</p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
   
-  # Govindu Kamburugamuwa
-  
-  **Computer Science Undergraduate | Full-Stack Developer | Technology Enthusiast**
-  
-  <img src="https://komarev.com/ghpvc/?username=GovinduKamburugamuwa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=github)](https://govindukamburugamuwa.github.io/)
-  [![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge&logo=wordpress)](https://codegeekgovi9.wordpress.com/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:govi.oshada.ry@mail.com)
-</div>
+- 🔭 I'm currently working on **Django Web Applications**
 
----
+- 🌱 I'm currently learning **Advanced Django & Cloud Technologies**
 
-## 🚀 About Me
+- 👨‍💻 Portfolio: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/)
 
-I'm a passionate **Computer Science undergraduate** at General Sir John Kotelawala Defence University (KDU), with a strong focus on full-stack development and emerging technologies. I love creating innovative solutions and sharing knowledge through technical writing and open-source contributions.
+- 📝 I regularly write articles on [CodeGeek Blog](https://codegeekgovi9.wordpress.com/)
 
-- 🔭 **Currently Working On:** Django web applications and backend development
-- 🌱 **Currently Learning:** Advanced Django, cloud technologies, and system design
-- 💡 **Interests:** Web development, software architecture, and emerging tech trends
-- 📝 **Writing:** Regular technical articles on modern development practices
-- 🎯 **Goal:** Contributing to impactful projects and building scalable applications
+- 💬 Ask me about **Java, MERN Stack, Python, Django**
 
----
+- 📫 How to reach me: **govi.oshada.ry@mail.com**
 
-## 🛠️ Technical Skills
+- ⚡ Fun fact: **Call me GOVI**
+
+</td>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="450px" alt="Programmer illustration">
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
+
+## 🛠️ Languages and Tools
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -44,50 +55,55 @@ I'm a passionate **Computer Science undergraduate** at General Sir John Kotelawa
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 </div>
 
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GovinduKamburugamuwa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-### 🔗 [Personal Portfolio](https://govindukamburugamuwa.github.io/)
-A responsive portfolio website showcasing my projects, skills, and professional journey.
-
-### 📝 [Technical Blog](https://codegeekgovi9.wordpress.com/)
-Regular articles covering web development, programming concepts, and technology insights.
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govindu-oshada/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/govindu_oshada/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@codegeeks2000)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/govi_oshada_ry)
 
-**📧 Email:** [govi.oshada.ry@mail.com](mailto:govi.oshada.ry@mail.com)
+### 📱 Social Media
+<a href="https://www.linkedin.com/in/govindu-oshada/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="100" width="100" />
+</a>
+<a href="https://www.instagram.com/govindu_oshada/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="100" width="100" />
+</a>
+<a href="https://www.youtube.com/@codegeeks2000" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="YouTube" height="100" width="100" />
+</a>
+
+### 💼 Professional Platforms
+<a href="https://www.hackerrank.com/profile/govi_oshada_ry" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="80" width="80" />
+</a>
+<a href="https://codegeekgovi9.wordpress.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Blog" height="80" width="80" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer Animation">
   
-  **"Code is like humor. When you have to explain it, it's bad." - Cory House**
-  
-  <sub>⚡ Always excited to collaborate on innovative projects!</sub>
+**🚀 "Passionate about creating innovative solutions and sharing knowledge"**
+
+*Always open to collaborate on interesting projects!*
+
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
+</p>
