@@ -8,9 +8,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **Django**
+- 🔭 I'm currently working on **Django**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I'm currently learning **Django**
 
 - 👨‍💻 Portfolio [https://govindukamburugamuwa.github.io/](https://govindukamburugamuwa.github.io/)
 
@@ -50,11 +50,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
-</p>
-
-
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -67,20 +62,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GovinduKamburugamuwa&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
 </p>
 
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
-</p>
-
 <h3 align="center">Social Media</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/govindu-oshada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="govinduoshada" height="100" width="100" /></a>
 <a href="https://www.instagram.com/govindu_oshada/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="govindu_oshada" height="100" width="100" /></a>
 <a href="https://www.youtube.com/@codegeeks2000" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="codegeeks" height="100" width="100" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
 </p>
 
 <h3 align="center">Connect With Me</h2>
@@ -92,7 +78,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="divider">
 </p>
-
-
-
-
