@@ -16,9 +16,9 @@
 
 - 🌱 I'm currently learning **Advanced Django & Cloud Technologies**
 
-- 👨‍💻 Portfolio1: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/)
+- 👨‍💻 Portfolio 1: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/)
   
-- 👨‍💻 Portfolio2: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/govindu-myportfolio/)
+- 👨‍💻 Portfolio 2: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/govindu-myportfolio/)
 
 - 📝 I regularly write articles on [CodeGeek Blog](https://codegeekgovi9.wordpress.com/)
 
