@@ -12,9 +12,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I'm currently working on **Django Web Applications**
+- 🔭 I'm currently working on **FastApi Web Applications**
 
-- 🌱 I'm currently learning **Advanced Django & Cloud Technologies**
+- 🌱 I'm currently learning **Advanced FastApi & Cloud Technologies**
 
 - 👨‍💻 Portfolio 1: [govindukamburugamuwa.github.io](https://govindukamburugamuwa.github.io/)
   
